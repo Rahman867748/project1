@@ -1,0 +1,29 @@
+
+
+@import "tailwindcss";
+.libre{
+     font-family: "Libre Caslon Condensed", serif;
+} 
+.light{
+     font-family: "Shadows Into Light", cursive;
+}
+.moonrock{
+      font-family: "Rubik Moonrocks", sans-serif;
+}
+.poppins{
+      font-family: "Poppins", sans-serif;
+}
+.bg-img{
+     background-image: url(./image/pattern\ bg.png);
+}
+
+
+
+
+
+
+
+
+  
+
+
